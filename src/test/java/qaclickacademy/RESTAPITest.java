@@ -7,6 +7,7 @@ public class RESTAPITest {
 	@Test
 	public void postJira() {
 		System.out.println("postJira");
+		System.out.println("postJira1");
 	}
 	
 	@Test
